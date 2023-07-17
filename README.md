@@ -2,7 +2,7 @@ Hi, I’m @Lorki
 
 I’m interested in PROGRAMMING
 
-I’m currently learning C++,C,Boost
+I’m currently learning C#,Unity,C++,C,Boost
 
 [![wakatime](https://wakatime.com/badge/user/3aa1301f-9dfd-4543-bcdf-91d0911648d2.svg)](https://wakatime.com/@3aa1301f-9dfd-4543-bcdf-91d0911648d2)
 
