@@ -1,7 +1,5 @@
 👋 Hi, I’m Lorki)
 
-🐱 My Age 16
-
 🌐 I am from Kharkiv, Ukraine and i'm speak those languages Russian, Ukrainian, English
 
 💻 I’m develop programs/libs with C/C++, ASM and develop websites with JS/TS, Vue, PHP and reverse engineering with IDA/IDR/Dynamic Libs Patching
