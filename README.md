@@ -1,8 +1,14 @@
-Hi, I’m @Lorki
+👋 Hi, I’m Lorki)
 
-I’m interested in PROGRAMMING
+🐱 My Age 16
 
-I’m currently learning C#,Unity,C++,C,Boost
+🌐 I am from Kharkiv, Ukraine and i'm speak those languages Russian, Ukrainian, English
+
+💻 I’m develop programs/libs with C/C++, ASM and develop websites with JS/TS, Vue, PHP and reverse engineering with IDA/IDR/Dynamic Libs Patching
+
+🔬 And also i'm interested Python, C# Unity, GameDev, AI, Rust Lang
+
+My Coding Stats 😇
 
 [![wakatime](https://wakatime.com/badge/user/3aa1301f-9dfd-4543-bcdf-91d0911648d2.svg)](https://wakatime.com/@3aa1301f-9dfd-4543-bcdf-91d0911648d2)
 
