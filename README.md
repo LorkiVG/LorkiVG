@@ -53,8 +53,8 @@ And also btw i use CuteArch)
 
 **Database Technologies:**
 
-[![Postgres](https://skillicons.dev/icons?i=docker)](https://www.postgresql.org/)
-[![MySQL](https://skillicons.dev/icons?i=laravel)](https://www.mysql.com/)
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 
 **Gaming Engines:**
 
