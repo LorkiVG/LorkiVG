@@ -2,7 +2,9 @@
 
 ## About Me 🙂
 
-🌐 I am developer/reverse engineer from [Kharkiv, Ukraine](https://www.google.com/search?q=kharkiv+saltivka) and i'm speak those languages Russian, Ukrainian, English
+🗺️ I'm developer/reverse-engineer from [Kharkiv, Ukraine](https://www.google.com/search?q=kharkiv+saltivka)
+
+🌐 I'm speak those languages Russian, Ukrainian, English
 
 💻 I’m develop programs/libs with C/C++, ASM and develop websites with JS/TS, Vue, PHP and reverse engineering with IDA/IDR/Dynamic Libs Patching
 
