@@ -16,7 +16,7 @@
 
 **Graphics Editors:**
 
-[![Programming Skills](https://skillicons.dev/icons?i=ae,blender)](https://skillicons.dev)
+[![Programming Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 
 And btw i use CuteArch)
 
@@ -26,13 +26,17 @@ And btw i use CuteArch)
 
 [![Programming Skills](https://skillicons.dev/icons?i=bash,c,cpp,cs,php,ts,python)](https://skillicons.dev)
 
+**C/C++ Technologies:**
+
+[![C/C++ Skills](https://skillicons.dev/icons?i=cmake)](https://skillicons.dev)
+
 **Frontend Technologies:**
 
-[![Frontend Skills](https://skillicons.dev/icons?i=npm,vite,vue,webpack,threejs,babel,scss)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=npm,yarn,vite,vue,webpack,threejs,babel,scss)](https://skillicons.dev)
 
 **Backend Technologies:**
 
-[![Backend Skills](https://skillicons.dev/icons?i=docker,laravel,aws)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=laravel,nginx,maven,docker,aws)](https://skillicons.dev)
 
 **Database Technologies:**
 
@@ -40,7 +44,7 @@ And btw i use CuteArch)
 
 **Other:**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,cloudflare,md,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,cloudflare,md,postman,discordjs)](https://skillicons.dev)
 
 ## My Coding Stats 😇
 
