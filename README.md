@@ -12,7 +12,7 @@
 
 **Code Editors:**
 
-[![Programming Skills](https://skillicons.dev/icons?i=vscodium,vscode,sublime)](https://skillicons.dev)      
+[![Programming Skills](https://skillicons.dev/icons?i=vscodium,vscode,neovim,sublime)](https://skillicons.dev)      
 
 **Graphics Editors:**
 
