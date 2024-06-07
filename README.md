@@ -51,7 +51,7 @@ And also btw i use CuteArch)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 
-**Database Technologies:**
+**Databases:**
 
 [![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
