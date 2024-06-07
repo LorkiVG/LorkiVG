@@ -2,7 +2,7 @@
 
 ## About Me 🙂
 
-🌐 I am from Kharkiv, Ukraine and i'm speak those languages Russian, Ukrainian, English
+🌐 I am developer/reverse engineer from [Kharkiv, Ukraine](https://www.google.com/search?q=kharkiv+saltivka) and i'm speak those languages Russian, Ukrainian, English
 
 💻 I’m develop programs/libs with C/C++, ASM and develop websites with JS/TS, Vue, PHP and reverse engineering with IDA/IDR/Dynamic Libs Patching
 
@@ -12,11 +12,11 @@
 
 **Code Editors:**
 
-[![Programming Skills](https://skillicons.dev/icons?i=vscodium,vscode,neovim,sublime)](https://skillicons.dev)      
+[![VsCodium](https://skillicons.dev/icons?i=vscodium)](https://vscodium.com/) [![NeoVim](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
 
 **Graphics Editors:**
 
-[![Programming Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+[![Programming Skills](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
 
 And btw i use CuteArch)
 
@@ -24,27 +24,49 @@ And btw i use CuteArch)
 
 **Programming Languages:**
 
-[![Programming Skills](https://skillicons.dev/icons?i=bash,c,cpp,cs,php,ts,python)](https://skillicons.dev)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C#](https://skillicons.dev/icons?i=cs)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 
 **C/C++ Technologies:**
 
-[![C/C++ Skills](https://skillicons.dev/icons?i=cmake)](https://skillicons.dev)
+[![CMake](https://skillicons.dev/icons?i=cmake)](https://cmake.org/)
 
 **Frontend Technologies:**
 
-[![Frontend Skills](https://skillicons.dev/icons?i=npm,yarn,vite,vue,webpack,threejs,babel,scss)](https://skillicons.dev)
+[![NPM](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
+[![YARN](https://skillicons.dev/icons?i=yarn)](https://yarnpkg.com/)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
+[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![WebPack](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
+[![ThreeJS](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
+[![SCSS](https://skillicons.dev/icons?i=scss)](https://sass-lang.com/)
 
 **Backend Technologies:**
 
-[![Backend Skills](https://skillicons.dev/icons?i=laravel,nginx,maven,docker,aws)](https://skillicons.dev)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+[![Nginx](https://skillicons.dev/icons?i=nginx)](https://nginx.org/en/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 
 **Database Technologies:**
 
-[![Backend Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
+[![Postgres](https://skillicons.dev/icons?i=docker)](https://www.postgresql.org/)
+[![MySQL](https://skillicons.dev/icons?i=laravel)](https://www.mysql.com/)
 
 **Other:**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,cloudflare,md,postman,discordjs)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://www.git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
+[![CloudFlare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com/)
+[![PostMan](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![MD](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/basic-syntax/)
+[![DiscordJS](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/)
 
 ## My Coding Stats 😇
 
