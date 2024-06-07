@@ -58,6 +58,11 @@ And btw i use CuteArch)
 [![Postgres](https://skillicons.dev/icons?i=docker)](https://www.postgresql.org/)
 [![MySQL](https://skillicons.dev/icons?i=laravel)](https://www.mysql.com/)
 
+**Gaming Engines:**
+
+[![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
+[![Godot](https://skillicons.dev/icons?i=godot)](https://godotengine.org/)
+
 **Other:**
 
 [![Git](https://skillicons.dev/icons?i=git)](https://www.git-scm.com/)
