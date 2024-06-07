@@ -2,25 +2,21 @@
 
 ## About Me 🙂
 
-🗺️ I'm developer/reverse-engineer from [Kharkiv, Ukraine](https://www.google.com/search?q=kharkiv+saltivka)
-
-🌐 I'm speak those languages Russian, Ukrainian, English
-
-💻 I’m develop programs/libs with C/C++, ASM and develop websites with JS/TS, Vue, PHP and reverse engineering with IDA/IDR/Dynamic Libs Patching
-
-🔬 And also i'm interested Python, C# Unity, GameDev, AI, Rust Lang
+I'm 16 year old developer/reverse engineer, I love and constantly learning self taught IT and new technologies, I do some interesting projects, but also very interested creating new interesting projects.
+Besides IT, I enjoy studying history and sociology, this has led me to the movement for pacifism, freedom and human rights and social support all over the world.
 
 ## I Use 😀
 
 **Code Editors:**
 
-[![VsCodium](https://skillicons.dev/icons?i=vscodium)](https://vscodium.com/) [![NeoVim](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
+[![VsCodium](https://skillicons.dev/icons?i=vscodium)](https://vscodium.com/) 
+[![NeoVim](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
 
 **Graphics Editors:**
 
 [![Programming Skills](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
 
-And btw i use CuteArch)
+And also btw i use CuteArch)
 
 ## My Skills ☺️
 
