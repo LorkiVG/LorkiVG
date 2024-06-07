@@ -1,4 +1,6 @@
-👋 Hi, I’m Lorki)
+### 👋 Hi, I’m Lorki)
+
+## About Me 🙂
 
 🌐 I am from Kharkiv, Ukraine and i'm speak those languages Russian, Ukrainian, English
 
@@ -6,7 +8,41 @@
 
 🔬 And also i'm interested Python, C# Unity, GameDev, AI, Rust Lang
 
-My Coding Stats 😇
+## I Use 😀
+
+**Code Editors:**
+
+[![Programming Skills](https://skillicons.dev/icons?i=vscode,sublime)](https://skillicons.dev)      
+
+**Graphics Editors:**
+
+[![Programming Skills](https://skillicons.dev/icons?i=ae,blender)](https://skillicons.dev)
+
+And btw i use CuteArch)
+
+## My Skills ☺️
+
+**Programming Languages:**
+
+[![Programming Skills](https://skillicons.dev/icons?i=bash,c,cpp,cs,php,ts,python)](https://skillicons.dev)
+
+**Frontend Technologies:**
+
+[![Frontend Skills](https://skillicons.dev/icons?i=npm,vite,vue,webpack,threejs,babel,scss)](https://skillicons.dev)
+
+**Backend Technologies:**
+
+[![Backend Skills](https://skillicons.dev/icons?i=docker,laravel,aws)](https://skillicons.dev)
+
+**Database Technologies:**
+
+[![Backend Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
+
+**Other:**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,cloudflare,md,postman)](https://skillicons.dev)
+
+## My Coding Stats 😇
 
 [![wakatime](https://wakatime.com/badge/user/3aa1301f-9dfd-4543-bcdf-91d0911648d2.svg)](https://wakatime.com/@3aa1301f-9dfd-4543-bcdf-91d0911648d2)
 
