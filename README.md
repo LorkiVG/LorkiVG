@@ -2,7 +2,7 @@
 
 ## About Me 🙂
 
-I'm 16 year old developer/reverse engineer, I love and constantly learning self taught IT and new technologies, I do some interesting projects, but also very interested creating new interesting projects.
+I'm 16 y.o. developer/reverse engineer, I love and constantly learning self taught IT and new technologies, I do some interesting projects, but also very interested creating new interesting projects.
 Besides IT, I enjoy studying history and sociology, this has led me to the movement for pacifism, freedom and human rights and social support all over the world.
 
 ## I Use 😀
