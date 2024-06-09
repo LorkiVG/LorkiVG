@@ -5,6 +5,12 @@
 I'm 16 y.o. developer/reverse engineer, I love and constantly learning self taught IT and new technologies, I do some interesting projects, but also very interested creating new interesting projects.
 Besides IT, I enjoy studying history, philosophy and sociology, this has led me to the movement for pacifism, freedom and human rights and social support all over the world.
 
+## I speak 😌
+
+- <img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/White-blue-white_flag.svg/1024px-White-blue-white_flag.svg.png" class="svg mw-mmv-dialog-is-open" width="17"> Russian
+- 🇺🇦 Ukrainian
+- 🇬🇧 English 
+
 ## I Use 😀
 
 **Code Editors:**
