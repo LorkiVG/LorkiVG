@@ -7,7 +7,7 @@ Besides IT, I enjoy studying history, philosophy and sociology, this has led me 
 
 ## I speak 😌
 
-- <img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/White-blue-white_flag.svg/1024px-White-blue-white_flag.svg.png" class="svg mw-mmv-dialog-is-open" width="15"> Russian
+- <a href="https://en.wikipedia.org/wiki/White-blue-white_flag" target="_blank"><img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/White-blue-white_flag.svg/1024px-White-blue-white_flag.svg.png" class="svg mw-mmv-dialog-is-open" width="15"></a> Russian
 - 🇺🇦 Ukrainian
 - 🇬🇧 English 
 
