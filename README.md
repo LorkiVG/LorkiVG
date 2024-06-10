@@ -77,6 +77,13 @@ And also btw i use CuteArch)
 [![MD](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/basic-syntax/)
 [![DiscordJS](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/)
 
+
+## You can support me on 🤗
+
+1. **MasterCard** 5363 5420 9532 9984
+2. **Monero** 46Vvmi4pnRggWJjFo3Do4jGAB8eSYvYQvGkEF2xtAqBE9n13GEEPiHn7rU2eSxuTA3HKKwoxhTT2QgGxEwwLhTL99pSbZ4B
+3. **TRON** TB4iWbLynygTpCALUTHSk3bbPvjCymAwBh
+
 ## My Coding Stats 😇
 
 [![wakatime](https://wakatime.com/badge/user/3aa1301f-9dfd-4543-bcdf-91d0911648d2.svg)](https://wakatime.com/@3aa1301f-9dfd-4543-bcdf-91d0911648d2)
@@ -84,3 +91,4 @@ And also btw i use CuteArch)
 ![langs stat](https://github-readme-stats-lorkinikita.vercel.app/api/top-langs/?username=LorkiVG&theme=dracula&langs_count=10&layout=compact&border_color=161b22&bg_color=161b22&icon_color=da6183)
 
 ![repo stat](https://github-readme-stats-lorkinikita.vercel.app/api?username=LorkiVG&theme=dracula&show_icons=true&count_private=true&count_private=true&border_color=161b22&bg_color=161b22&icon_color=da6183)
+
