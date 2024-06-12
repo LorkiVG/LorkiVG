@@ -11,7 +11,7 @@ Besides IT, I enjoy studying history, philosophy and sociology, this has led me 
 - 🇺🇦 Ukrainian (C2)
 - 🇬🇧 English (B2, in active learning 🙂)
 
-And i would like to start learning 🇩🇪 )
+And i would like to start learning 🇩🇪 German)
 
 ## I Use 😀
 
