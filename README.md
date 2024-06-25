@@ -9,7 +9,7 @@ Besides IT, I enjoy studying history, philosophy and sociology, this has led me 
 
 - <a href="https://en.wikipedia.org/wiki/Anti-war_protests_in_Russia_(2022%E2%80%93present)" target="_blank"><img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/White-blue-white_flag.svg/1024px-White-blue-white_flag.svg.png" class="svg mw-mmv-dialog-is-open" width="16"></a> Russian (Native)
 - 🇺🇦 Ukrainian (C2)
-- 🇬🇧 English (B2, in active learning 🙂)
+- 🇬🇧 English (B1, in active learning 🙂)
 
 And i would like to start learning 🇩🇪 German)
 
