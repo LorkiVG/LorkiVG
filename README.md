@@ -83,8 +83,9 @@ And also btw i use CuteArch)
 ## You can support me on 🤗
 
 1. **MasterCard** 5363 5420 9532 9984
-2. **Monero** 46Vvmi4pnRggWJjFo3Do4jGAB8eSYvYQvGkEF2xtAqBE9n13GEEPiHn7rU2eSxuTA3HKKwoxhTT2QgGxEwwLhTL99pSbZ4B
-3. **TRON** TB4iWbLynygTpCALUTHSk3bbPvjCymAwBh
+2. **PayPal** lorkiofficial@gmail.com ([PayPal.me doesn't work in Ukraine :(](https://www.paypal.com/paypalme/pages/countries) )
+3. **Monero** 46Vvmi4pnRggWJjFo3Do4jGAB8eSYvYQvGkEF2xtAqBE9n13GEEPiHn7rU2eSxuTA3HKKwoxhTT2QgGxEwwLhTL99pSbZ4B
+4. **TRON** TJSe7h5gZZFw2QpMWtZtkngZTpGh3nkD8y
 
 ## My Coding Stats 😇
 
