@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Lorki
+### Hi, I’m Lorki
 
 ## About Me
 
