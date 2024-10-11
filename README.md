@@ -7,11 +7,9 @@ Besides IT, I enjoy studying history, philosophy and sociology, this has led me 
 
 ## I speak 😌
 
-- <a href="https://en.wikipedia.org/wiki/Anti-war_protests_in_Russia_(2022%E2%80%93present)" target="_blank"><img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/White-blue-white_flag.svg/1024px-White-blue-white_flag.svg.png" class="svg mw-mmv-dialog-is-open" width="16"></a> Russian (Native)
-- 🇺🇦 Ukrainian (C1)
-- 🇬🇧 English (B1, in active learning 🙂)
-
-And i would like to start learning 🇩🇪 German)
+- Russian (Native)
+- Ukrainian (C1)
+- English (B1, in active learning 🙂)
 
 ## I Use 😀
 
@@ -91,8 +89,8 @@ And also btw i use CuteArch)
 
 [![wakatime](https://wakatime.com/badge/user/3aa1301f-9dfd-4543-bcdf-91d0911648d2.svg)](https://wakatime.com/@3aa1301f-9dfd-4543-bcdf-91d0911648d2)
 
-![langs stat](https://github-readme-stats-sigma-sandy.vercel.app//api/top-langs/?username=LorkiVG&theme=dracula&langs_count=10&layout=compact&border_color=181825&bg_color=181825&icon_color=da6183)
+![langs stat](https://github-readme-stats-sigma-sandy.vercel.app//api/top-langs/?username=LorkiVG&theme=dracula&langs_count=10&layout=compact&border_color=181825&bg_color=181825&icon_color=6189da)
 
-![repo stat](https://github-readme-stats-sigma-sandy.vercel.app/api?username=LorkiVG&theme=dracula&show_icons=true&count_private=true&count_private=true&border_color=181825&bg_color=181825&icon_color=da6183)
+![repo stat](https://github-readme-stats-sigma-sandy.vercel.app/api?username=LorkiVG&theme=dracula&show_icons=true&count_private=true&count_private=true&border_color=181825&bg_color=181825&icon_color=6189da)
 
-![wakatime stat](https://github-readme-stats-sigma-sandy.vercel.app/api/wakatime?username=lorki&theme=dracula&langs_count=10&layout=compact&border_color=181825&bg_color=181825&icon_color=da6183)
+![wakatime stat](https://github-readme-stats-sigma-sandy.vercel.app/api/wakatime?username=lorki&theme=dracula&langs_count=10&layout=compact&border_color=181825&bg_color=181825&icon_color=6189da)
