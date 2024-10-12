@@ -22,7 +22,8 @@ Besides IT, I enjoy studying history, biology(anthropology and genetics), philos
 
 **Graphics Editors:**
 
-[![Programming Skills](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
+[![AfterEffects](https://skillicons.dev/icons?i=aftereffects)](https://www.adobe.com/products/aftereffects.html)
+[![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
 
 ## My Skills
 
@@ -72,10 +73,8 @@ Besides IT, I enjoy studying history, biology(anthropology and genetics), philos
 [![Git](https://skillicons.dev/icons?i=git)](https://www.git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
-[![CloudFlare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com/)
 [![PostMan](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![MD](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/basic-syntax/)
-[![DiscordJS](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/)
 
 
 ## You can support me on
