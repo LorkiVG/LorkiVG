@@ -15,7 +15,9 @@ Besides IT, I enjoy studying history, biology(anthropology and genetics), philos
 
 **Code Editors:**
 
-[![VsCodium](https://skillicons.dev/icons?i=vscodium)](https://vscodium.com/) 
+[![VsCodium](https://skillicons.dev/icons?i=vscodium)](https://vscodium.com/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com/) 
 [![NeoVim](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
 
 **Graphics Editors:**
