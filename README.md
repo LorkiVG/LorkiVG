@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm 17 y.o. developer/reverse engineer, I love and constantly learning self taught IT and new technologies, I do some interesting projects, but also very interested creating new interesting projects.
+I'm developer/reverse engineer, I love and constantly learning self taught IT and new technologies, I do some interesting projects, but also very interested creating new interesting projects.
 Besides IT, I enjoy studying history, biology(anthropology and genetics), philosophy and sociology.
 
 ## I speak
